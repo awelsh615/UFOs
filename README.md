@@ -4,7 +4,7 @@
 The purpose of the analysis is well-defined (2 pts)
 
 ## Resources
-- data.js file
+- data.js
 - VS Code
 - html, javaScript
 
