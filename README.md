@@ -1,10 +1,10 @@
-# The Truth is Out THere
-![image](
+# The Truth is Out There
+![image](images/ufo.png)
 ## Overview
 The purpose of the analysis is well-defined (2 pts)
 
 ## Resources
-- data.js file
+- data.js
 - VS Code
 - html, javaScript
 
