@@ -12,7 +12,7 @@ The purpose of the analysis is to create a webpage with a dynamic table allowing
 
 ### Search Filters
 As an example, if a user wanted to filter the UFO data to include only events occuring on 1/10/2010 in the state of california, the table would display only those two events.
-![image](images/filterOnDateState)
+![image](images/filterOnDateState.PNG)
 
 ### Summary
 The main drawback of this webpage is the limited included data from the data.js file.  For example, there are no events recorded in roswell, and data within the last several years is also not included.  
